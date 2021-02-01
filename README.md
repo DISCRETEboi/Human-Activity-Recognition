@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Course Project
 
-This repository is built to store the required scripts and datasets as required in the assignment of 'Getting and Cleaning Data' course offered by Johns Hopkins University through Coursera.
+This repository is built to store the required scripts and datasets as required in the assignment of *Getting and Cleaning Data* course offered by Johns Hopkins University through Coursera.
 
 ---
 
