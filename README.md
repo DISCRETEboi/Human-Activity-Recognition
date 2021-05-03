@@ -1,9 +1,5 @@
 ## Getting and Cleaning Data Course Project
 
-This repository is built to store the scripts and datasets as required in the assignment of *Getting and Cleaning Data* course offered by Johns Hopkins University through Coursera.
-
----
-
 #### Project Overview
 
 The goal of this project is to create a tidy data set with the help of R to analyze experimental results which were captured in the [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) study.
